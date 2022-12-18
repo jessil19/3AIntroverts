@@ -50,5 +50,10 @@ body {
   color: black ;
 
  
+}img {
+  display: block;
+  margin-left: 40%;
+  margin-right: 10%;
+  width: 40%;
 }
 
