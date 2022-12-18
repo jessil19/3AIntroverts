@@ -41,5 +41,14 @@ body {
  overflow: auto;
  border-bottom: 2px solid  #01558a;
 
+}.topli{
+  float: left;
+}.top .topli .topa{
+  display: inline;
+  margin: 20px 40px;
+  text-decoration:none ;
+  color: black ;
+
+ 
 }
 
